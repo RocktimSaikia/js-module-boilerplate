@@ -1,9 +1,5 @@
-<h1 align="center">My Node Module</h1>
-<p align="center">A bare minimum boilerplate to kickstart my nodejs projects :unicorn:</p>
-<p align="center">
-<img alt="GitHub" src="https://img.shields.io/github/license/rocktimsaikia/my-module-template"/>
-
-</p>
+# My Node Module ![build](https://travis-ci.com/RocktimSaikia/my-module-template.svg?branch=master) ![license](https://img.shields.io/github/license/rocktimsaikia/my-module-template)
+> A bare minimum boilerplate to kickstart my nodejs projects :unicorn:</p>
 <br><br>
 
 ## :zap:  Install

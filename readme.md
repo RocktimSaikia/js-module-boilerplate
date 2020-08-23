@@ -1,6 +1,8 @@
 # My Node Module ![build](https://travis-ci.com/RocktimSaikia/my-module-template.svg?branch=master) ![license](https://img.shields.io/github/license/rocktimsaikia/my-module-template)
-> A bare minimum boilerplate to kickstart my nodejs projects :unicorn:</p>
-<br><br>
+
+> A bare minimum boilerplate to kickstart my nodejs projects. :unicorn:
+
+<br/><br/>
 
 ## :zap:  Install
 ```bash

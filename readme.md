@@ -1,5 +1,9 @@
 <h1 align="center">My Node Module</h1>
 <p align="center">A bare minimum boilerplate to kickstart my nodejs projects :unicorn:</p>
+<p align="center">
+<img alt="GitHub" src="https://img.shields.io/github/license/rocktimsaikia/my-module-template"/>
+
+</p>
 <br><br>
 
 ## :zap:  Install

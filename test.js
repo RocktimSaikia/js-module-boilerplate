@@ -1,5 +1,5 @@
-import test from 'ava';
-import unicornFun from '.';
+const test = require('ava');
+const unicornFun = require('.');
 
 test('main', t => {
 	t.throws(() => {

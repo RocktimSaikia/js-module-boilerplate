@@ -1,6 +1,6 @@
-# node-encoder ![build](https://travis-ci.com/RocktimSaikia/node-encoder.svg?branch=master) ![license](https://img.shields.io/github/license/rocktimsaikia/node-encoder)
+# Awesome-module-name ![build](https://travis-ci.com/RocktimSaikia/node-encoder.svg?branch=master) ![license](https://img.shields.io/github/license/rocktimsaikia/node-encoder)
 
-> A zero dependency `base64` based Encoder and Decoder for Node.js. :unicorn:
+> Awesome module description and there is also a unicorn here :unicorn:
 
 ## Install
 ```bash

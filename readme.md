@@ -1,44 +1,39 @@
-# My Node Module ![build](https://travis-ci.com/RocktimSaikia/my-module-template.svg?branch=master) ![license](https://img.shields.io/github/license/rocktimsaikia/my-module-template)
+# node-encoder ![build](https://travis-ci.com/RocktimSaikia/node-encoder.svg?branch=master) ![license](https://img.shields.io/github/license/rocktimsaikia/node-encoder)
 
-> A bare minimum boilerplate to kickstart my nodejs projects. :unicorn:
+> A zero dependency `base64` based Encoder and Decoder for Node.js. :unicorn:
 
-<br/><br/>
-
-## :zap:  Install
+## Install
 ```bash
-npm install unicorn
+npm install node-encoder
 ```
-<br><br>
 
-## :bulb:  Usage
+## Usage
 
 ```js
-const unicornFun = require('unicorn-fun');
+const {_encode, _decode} = require('node-encoder')
 
-unicornFun('unicorns');
-//=> 'unicorns & rainbows'
+
+_encode('Everything is better with a unicorn 🦄')
+
+//=> RXZlcnl0aGluZyBpcyBiZXR0ZXIgd2l0aCBhIHVuaWNvcm4g8J+mhA==
+
+
+_decode('QmUgYSBVbmljb3JuIPCfpoQgaW4gYSBGaWVsZCBGdWxsIG9mIEhvcnNlcw==')
+
+//=> Be a Unicorn 🦄 in a Field Full of Horses'
 ```
-<br><br>
 
 ## API
 
-### unicornFun(input, options?)
+### _encode(input)
 
-#### input
+Takes a single `utf-8/ascii` string input as argument and retuns it's `base64` encoded string version.
 
-Type: `string`
+### _decode(input)
 
-Lorem ipsum.
-<br><br>
+Takes a single `base64` string input as argument and retuns it's `utf-8` decoded string version.
 
-#### options
 
-Type: `object`
-<br><br>
+## Support
 
-##### postfix
-
-Type: `string`\
-Default: `rainbows`
-
-Lorem ipsum.
+<a href="https://www.buymeacoffee.com/7BdaxfI"><img src="https://user-images.githubusercontent.com/33410545/91206759-48d5d180-e725-11ea-93b5-754d98c007af.png" height="70px"/></a>

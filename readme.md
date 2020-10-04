@@ -1,16 +1,16 @@
-# awesome-unicorn ![build](https://travis-ci.com/RocktimSaikia/awesome-unicorn.svg?branch=master) ![license](https://img.shields.io/github/license/rocktimsaikia/awesome-unicorn)
+# my-module-template ![build](https://travis-ci.com/RocktimSaikia/my-module-template.svg?branch=master) ![license](https://img.shields.io/github/license/rocktimsaikia/my-module-template)
 
 > Awesome module description and there is also a unicorn here :unicorn:
 
 ## Install
 ```bash
-npm install awesome-unicorn
+npm install my-module-template
 ```
 
 ## Usage
 
 ```js
-const awesomeUnicorn = require('awesome-unicorn')
+const awesomeUnicorn = require('my-module-template')
 
 (async()=>{
     console.log(awesomeUnicorn('🦄'));

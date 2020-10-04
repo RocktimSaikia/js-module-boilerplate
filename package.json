@@ -1,12 +1,12 @@
 {
-	"name": "unicorn-fun",
+	"name": "my-module-template",
 	"version": "0.0.0",
 	"description": "My awesome module",
 	"keywords": [
 		"unicorn",
 		"fun"
 	],
-	"repository": "RocktimSaikia/unicorn-fun",
+	"repository": "RocktimSaikia/my-module-template",
 	"license": "MIT",
 	"author": {
 		"name": "Rocktim Saikia",

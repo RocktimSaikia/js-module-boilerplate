@@ -1,37 +1,36 @@
-# Awesome-module-name ![build](https://travis-ci.com/RocktimSaikia/node-encoder.svg?branch=master) ![license](https://img.shields.io/github/license/rocktimsaikia/node-encoder)
+# awesome-unicorn ![build](https://travis-ci.com/RocktimSaikia/awesome-unicorn.svg?branch=master) ![license](https://img.shields.io/github/license/rocktimsaikia/awesome-unicorn)
 
 > Awesome module description and there is also a unicorn here :unicorn:
 
 ## Install
 ```bash
-npm install node-encoder
+npm install awesome-unicorn
 ```
 
 ## Usage
 
 ```js
-const {_encode, _decode} = require('node-encoder')
+const awesomeUnicorn = require('awesome-unicorn')
 
+(async()=>{
+    console.log(awesomeUnicorn('🦄'));
+    //=> 🦄🦄
+})();
 
-_encode('Everything is better with a unicorn 🦄')
-
-//=> RXZlcnl0aGluZyBpcyBiZXR0ZXIgd2l0aCBhIHVuaWNvcm4g8J+mhA==
-
-
-_decode('QmUgYSBVbmljb3JuIPCfpoQgaW4gYSBGaWVsZCBGdWxsIG9mIEhvcnNlcw==')
-
-//=> Be a Unicorn 🦄 in a Field Full of Horses'
 ```
 
 ## API
 
-### _encode(input)
+### awesomeUnicorn(options?)
 
-Takes a single `utf-8/ascii` string input as argument and retuns it's `base64` encoded string version.
+Takes one unicorn and returns two. Awesome stuff!!
 
-### _decode(input)
+#### Options
 
-Takes a single `base64` string input as argument and retuns it's `utf-8` decoded string version.
+##### anotherOptions
+
+Type: `number`<br>
+Default: `2`
 
 
 ## Support

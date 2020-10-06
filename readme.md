@@ -25,9 +25,9 @@ const awesomeUnicorn = require('my-module-template')
 
 Takes one unicorn and returns two. Awesome stuff!!
 
-#### Options
+#### options
 
-##### anotherOptions
+##### anotherOption
 
 Type: `number`<br>
 Default: `2`
@@ -35,4 +35,4 @@ Default: `2`
 
 ## Support
 
-<a href="https://www.buymeacoffee.com/7BdaxfI"><img src="https://user-images.githubusercontent.com/33410545/91206759-48d5d180-e725-11ea-93b5-754d98c007af.png" height="70px"/></a>
+<a href="https://www.buymeacoffee.com/7BdaxfI"><img src="https://user-images.githubusercontent.com/33410545/91206759-48d5d180-e725-11ea-93b5-754d98c007af.png" height="60px"/></a>

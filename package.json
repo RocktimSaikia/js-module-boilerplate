@@ -21,12 +21,8 @@
 		"test": "xo && ava"
 	},
 	"devDependencies": {
-		"@ava/babel": "^1.0.1",
-		"ava": "^3.13.0",
+		"ava": "2.4.0",
 		"xo": "^0.33.1"
-	},
-	"ava": {
-		"babel": true
 	},
 	"engines": {
 		"node": ">=12"

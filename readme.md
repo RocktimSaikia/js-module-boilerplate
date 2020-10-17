@@ -29,3 +29,7 @@ Takes one unicorn and returns two. Awesome stuff!!
 
 Type: `number`<br>
 Default: `2`
+
+## License
+
+MIT © [Rocktim Saikia](https://rocktim.xyz)

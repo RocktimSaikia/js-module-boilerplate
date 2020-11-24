@@ -1,13 +1,13 @@
 {
-	"name": "my-module-template",
+	"name": "js-module-boilerplate",
 	"version": "0.0.0",
 	"description": "My awesome module",
 	"keywords": [
 		"unicorn",
 		"fun"
 	],
-	"repository": "RocktimSaikia/my-module-template",
-	"homepage": "https://github.com/rocktimsaikia/my-module-template",
+	"repository": "RocktimSaikia/js-module-boilerplate",
+	"homepage": "https://github.com/rocktimsaikia/js-module-boilerplate",
 	"license": "MIT",
 	"author": {
 		"name": "Rocktim Saikia",

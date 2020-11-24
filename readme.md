@@ -1,17 +1,17 @@
-# my-module-template [![Build Status](https://github.com/rocktimsaikia/my-module-template/workflows/CI/badge.svg?branch=main)](https://github.com/rocktimsaikia/my-module-template/actions?query=branch%3Amain+workflow%3ACI)
+# js-module-boilerplate [![Build Status](https://github.com/rocktimsaikia/js-module-boilerplate/workflows/CI/badge.svg?branch=main)](https://github.com/rocktimsaikia/js-module-boilerplate/actions?query=branch%3Amain+workflow%3ACI)
 
 > Awesome module description and there is also a unicorn here :unicorn:
 
 ## Install
 
 ```bash
-npm install my-module-template
+npm install js-module-boilerplate
 ```
 
 ## Usage
 
 ```js
-const awesomeUnicorn = require("my-module-template")(async () => {
+const awesomeUnicorn = require("js-module-boilerplate")(async () => {
 	console.log(awesomeUnicorn("🦄"));
 	//=> 🦄🦄
 })();

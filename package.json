@@ -7,6 +7,7 @@
 		"fun"
 	],
 	"repository": "RocktimSaikia/my-module-template",
+	"homepage": "https://github.com/rocktimsaikia/my-module-template",
 	"license": "MIT",
 	"author": {
 		"name": "Rocktim Saikia",
@@ -14,8 +15,7 @@
 		"url": "https://rocktim.xyz"
 	},
 	"files": [
-		"index.d.ts",
-		"index.js"
+		"src/**/*"
 	],
 	"scripts": {
 		"test": "xo && ava"

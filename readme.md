@@ -1,4 +1,4 @@
-# my-module-template ![build](https://travis-ci.com/RocktimSaikia/my-module-template.svg?branch=master)
+# my-module-template [![Build Status](https://github.com/rocktimsaikia/my-module-template/workflows/CI/badge.svg?branch=main)](https://github.com/rocktimsaikia/my-module-template/actions?query=branch%3Amain+workflow%3ACI)
 
 > Awesome module description and there is also a unicorn here :unicorn:
 

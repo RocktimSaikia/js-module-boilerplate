@@ -21,8 +21,8 @@
 		"test": "xo && ava"
 	},
 	"devDependencies": {
-		"ava": "2.4.0",
-		"xo": "^0.33.1"
+		"ava": "^2.4.0",
+		"xo": "^0.35.0"
 	},
 	"engines": {
 		"node": ">=12"

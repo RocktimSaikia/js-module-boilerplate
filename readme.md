@@ -32,4 +32,4 @@ Default: `2`
 
 ## License
 
-MIT © [Rocktim Saikia](https://rocktim.xyz)
+MIT © [Rocktim Saikia](https://rocktimsaikia.now.sh/)

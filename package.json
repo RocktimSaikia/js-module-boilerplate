@@ -22,7 +22,7 @@
 	},
 	"devDependencies": {
 		"ava": "^2.4.0",
-		"xo": "^0.35.0"
+		"xo": "^0.36.1"
 	},
 	"engines": {
 		"node": ">=12"

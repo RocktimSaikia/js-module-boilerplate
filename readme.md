@@ -11,10 +11,10 @@ npm install js-module-boilerplate
 ## Usage
 
 ```js
-const awesomeUnicorn = require("js-module-boilerplate")(async () => {
-	console.log(awesomeUnicorn("🦄"));
-	//=> 🦄🦄
-})();
+const unicornFun = require("js-module-boilerplate");
+
+unicornFun("unicorns");
+//=> 'unicorns & rainbows'
 ```
 
 ## API

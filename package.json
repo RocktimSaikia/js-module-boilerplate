@@ -18,7 +18,8 @@
 		"src/**/*"
 	],
 	"scripts": {
-		"test": "xo && ava"
+		"test": "xo && ava",
+		"test:examples": "node examples/"
 	},
 	"devDependencies": {
 		"ava": "^2.4.0",

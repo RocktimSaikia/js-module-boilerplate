@@ -1,0 +1,17 @@
+{
+    "env": {
+        "es6": true,
+        "jest": true
+    },
+    "parserOptions": {
+        "ecmaVersion": 2021,
+        "sourceType": "module"
+    },
+    "plugins": [
+        "unicorn"
+    ],
+    "extends": ["plugin:unicorn/recommended"],
+    "rules": {
+        "unicorn/prevent-abbreviations": "off"
+    }
+}

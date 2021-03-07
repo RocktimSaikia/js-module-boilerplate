@@ -1,13 +1,13 @@
 {
-	"name": "js-module-boilerplate",
+	"name": "awesome-module",
 	"version": "0.0.0",
 	"description": "My awesome module",
 	"keywords": [
 		"unicorn",
 		"fun"
 	],
-	"repository": "RocktimSaikia/js-module-boilerplate",
-	"homepage": "https://github.com/rocktimsaikia/js-module-boilerplate",
+	"repository": "RocktimSaikia/awesome-module",
+	"homepage": "https://github.com/rocktimsaikia/awesome-module",
 	"license": "MIT",
 	"author": {
 		"name": "Rocktim Saikia",
@@ -18,12 +18,15 @@
 		"src/**/*"
 	],
 	"scripts": {
-		"test": "xo && ava",
-		"test:examples": "node examples/"
+		"test": "jest .",
+		"lint": "eslint .",
+		"test:ex": "node examples"
 	},
 	"devDependencies": {
-		"ava": "^2.4.0",
-		"xo": "^0.36.1"
+		"@types/jest": "^26.0.20",
+		"jest": "^26.6.3",
+		"eslint": "^7.21.0",
+		"eslint-plugin-unicorn": "^28.0.2"
 	},
 	"engines": {
 		"node": ">=12"

@@ -1,17 +1,17 @@
-# js-module-boilerplate [![Build Status](https://github.com/rocktimsaikia/js-module-boilerplate/workflows/CI/badge.svg?branch=main)](https://github.com/rocktimsaikia/js-module-boilerplate/actions?query=branch%3Amain+workflow%3ACI)
+# awesome-module [![Build Status](https://github.com/rocktimsaikia/awesome-module/workflows/CI/badge.svg?branch=main)](https://github.com/rocktimsaikia/awesome-module/actions?query=branch%3Amain+workflow%3ACI)
 
 > Awesome module description and there is also a unicorn here :unicorn:
 
 ## Install
 
 ```bash
-npm install js-module-boilerplate
+npm install awesome-module
 ```
 
 ## Usage
 
 ```js
-const unicornFun = require("js-module-boilerplate");
+const unicornFun = require("awesome-module");
 
 unicornFun("unicorns");
 //=> 'unicorns & rainbows'
@@ -32,4 +32,4 @@ Default: `2`
 
 ## License
 
-MIT © [Rocktim Saikia](https://rocktimsaikia.now.sh/)
+MIT 2020 © [Rocktim Saikia](https://rocktimsaikia.now.sh/)

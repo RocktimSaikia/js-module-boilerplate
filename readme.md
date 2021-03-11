@@ -1,4 +1,4 @@
-# awesome-module [![Build Status](https://github.com/rocktimsaikia/awesome-module/workflows/CI/badge.svg?branch=main)](https://github.com/rocktimsaikia/awesome-module/actions?query=branch%3Amain+workflow%3ACI)
+# awesome-module [![Build Status](https://github.com/rocktimsaikia/npm-package-boilerplate/workflows/CI/badge.svg?branch=main)](https://github.com/rocktimsaikia/npm-package-boilerplate/actions?query=branch%3Amain+workflow%3ACI)
 
 > Awesome module description and there is also a unicorn here :unicorn:
 
